@@ -1,6 +1,6 @@
 _pycache_
 *.sqlite3
 env.py
-*.jpg
+*.png
 static/
 media/
